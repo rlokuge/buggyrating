@@ -28,14 +28,14 @@ Steps to execute the tests locally
         b. Select Run-As > JUnit Test
 
 Test Framework supports following browsers, 
-1. Chrome
-2. Firefox
-3. Edge
-4. IE
+        1. Chrome
+        2. Firefox
+        3. Edge
+        4. IE
 By default, the framework is configured to run in Chrome but this can be changed by updating the config.properties file. 
 To update the config.properties, go to scr/test/resources package and open the config.properties file. 
 Update the browser value to any of the below, 
-1. chrome
-2. ie
-3. firefox
-4. edge
+        1. chrome
+        2. ie
+        3. firefox
+        4. edge
