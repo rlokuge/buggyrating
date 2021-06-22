@@ -32,6 +32,7 @@ Test Framework supports following browsers,
         2. Firefox
         3. Edge
         4. IE
+        
 By default, the framework is configured to run in Chrome but this can be changed by updating the config.properties file. 
 To update the config.properties, go to scr/test/resources package and open the config.properties file. 
 Update the browser value to any of the below, 
