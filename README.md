@@ -1,4 +1,4 @@
-Buggy Rating JustTestIT - TTest Automation Framework & Automation Tests
+Buggy Rating JustTestIT - Test Automation Framework & Automation Tests
 
 Web Application - https://buggy.justtestit.org/
 
